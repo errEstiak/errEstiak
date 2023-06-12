@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm errEstiak</h1>
 <h3 align="center">Love to do coding.. Starting my career as MERN Stack Developer. JS Lover :)</h3>
 
-<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ5YTRkYzhhMzM2ZDhlMTdlMzY0ZDc2YTk4NDRjODQ4ZWIzYzUxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iRGS1CQ1zodBxsVCqW/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errestiak&label=Profile%20views&color=0e75b6&style=flat" alt="errestiak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errestiak" alt="errestiak" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=errestiak" alt="errestiak"/></a> </p>
 
 - 🔭 I’m currently working on [guess my number, modal (small projects)](https://github.com/errEstiak/small-projects-on-js.git)
 
