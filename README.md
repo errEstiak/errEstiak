@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm errEstiak</h1>
-<h3 align="center">Love to do coding.. Starting my career as MERN Stack Developer. JS Lover :)</h3>
+<h3 align="center">Let's kiss the planned :)</h3>
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ5YTRkYzhhMzM2ZDhlMTdlMzY0ZDc2YTk4NDRjODQ4ZWIzYzUxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iRGS1CQ1zodBxsVCqW/giphy.gif">
 
